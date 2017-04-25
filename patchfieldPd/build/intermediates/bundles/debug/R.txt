@@ -1,0 +1,7 @@
+int drawable emo_im_happy 0x7f020000
+int drawable ic_launcher 0x7f020001
+int drawable perm_group_audio_settings 0x7f020002
+int drawable perm_group_microphone 0x7f020003
+int string app_name 0x7f040000
+int style AppBaseTheme 0x7f030000
+int style AppTheme 0x7f030001

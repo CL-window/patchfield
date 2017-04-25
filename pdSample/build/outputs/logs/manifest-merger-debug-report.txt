@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:3:5-58
+		INJECTED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [patchfieldSlack:patchfieldPd:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfieldPd/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] /Users/jf/.android/build-cache/efdc39e589f43930b7d6f20d2f993f6f700d4ea3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/jf/.android/build-cache/7dada78a5f7f48edd53bea36d5c23a439842c054/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/jf/.android/build-cache/6c51b4e63f44b4bd9cd43120b6902722600f69ad/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/jf/.android/build-cache/5f10bae00295e35da2fce06f48fdd6abf7e88c22/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/jf/.android/build-cache/2eb95fa436eec9cdb2ffb3b6b1db5a9ee4009ef5/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/jf/.android/build-cache/a2a8d8c5ec9bb1de23e8073fac8a69a1ebe0e47f/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/jf/.android/build-cache/efdc39e589f43930b7d6f20d2f993f6f700d4ea3/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml
+uses-permission#com.noisepages.nettoyeur.patchfield.service.USE_PATCHFIELD
+ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:11:5-98
+MERGED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:11:22-95
+application
+ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:13:5-29:19
+MERGED from [patchfieldSlack:patchfieldPd:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfieldPd/build/intermediates/bundles/default/AndroidManifest.xml:11:5-16:19
+MERGED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:18:5-31:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/jf/.android/build-cache/efdc39e589f43930b7d6f20d2f993f6f700d4ea3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/jf/.android/build-cache/7dada78a5f7f48edd53bea36d5c23a439842c054/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/jf/.android/build-cache/6c51b4e63f44b4bd9cd43120b6902722600f69ad/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/jf/.android/build-cache/5f10bae00295e35da2fce06f48fdd6abf7e88c22/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/jf/.android/build-cache/2eb95fa436eec9cdb2ffb3b6b1db5a9ee4009ef5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/jf/.android/build-cache/a2a8d8c5ec9bb1de23e8073fac8a69a1ebe0e47f/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:17:9-40
+activity#com.noisepages.nettoyeur.patchfield.pd.test.PdSampleActivity
+ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:18:9-28:20
+	android:screenOrientation
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:22:13-50
+	android:label
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:20:13-45
+	android:launchMode
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:19:13-88
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/jf/Desktop/slack/project/audio/patchfieldSlack/pdSample/src/main/AndroidManifest.xml:26:27-74
+permission#com.noisepages.nettoyeur.patchfield.service.USE_PATCHFIELD
+ADDED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:11:5-13:44
+	android:protectionLevel
+		ADDED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:13:9-41
+	android:name
+		ADDED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:12:9-82
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:16:22-68
+service#com.noisepages.nettoyeur.patchfield.service.PatchfieldService
+ADDED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:23:9-30:19
+	android:permission
+		ADDED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:25:13-92
+	android:name
+		ADDED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:24:13-89
+intent-filter#IPatchfieldService
+ADDED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:26:13-29:29
+action#IPatchfieldService
+ADDED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:27:17-28:26
+	android:name
+		ADDED from [patchfieldSlack:patchfield:unspecified] /Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/AndroidManifest.xml:27:25-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] /Users/jf/.android/build-cache/efdc39e589f43930b7d6f20d2f993f6f700d4ea3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/jf/.android/build-cache/7dada78a5f7f48edd53bea36d5c23a439842c054/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/jf/.android/build-cache/6c51b4e63f44b4bd9cd43120b6902722600f69ad/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/jf/.android/build-cache/5f10bae00295e35da2fce06f48fdd6abf7e88c22/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/jf/.android/build-cache/2eb95fa436eec9cdb2ffb3b6b1db5a9ee4009ef5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/jf/.android/build-cache/a2a8d8c5ec9bb1de23e8073fac8a69a1ebe0e47f/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/jf/.android/build-cache/efdc39e589f43930b7d6f20d2f993f6f700d4ea3/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/jf/.android/build-cache/efdc39e589f43930b7d6f20d2f993f6f700d4ea3/output/AndroidManifest.xml:26:9-47

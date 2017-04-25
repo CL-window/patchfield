@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfieldPd/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfieldPd/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfieldPd/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/perm_group_microphone.png",
+        "source": "/Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/res/drawable-mdpi-v4/perm_group_microphone.png"
+    },
+    {
+        "merged": "/Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfieldPd/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/emo_im_happy.png",
+        "source": "/Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/res/drawable-mdpi-v4/emo_im_happy.png"
+    },
+    {
+        "merged": "/Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfieldPd/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/perm_group_audio_settings.png",
+        "source": "/Users/jf/Desktop/slack/project/audio/patchfieldSlack/patchfield/build/intermediates/bundles/default/res/drawable-mdpi-v4/perm_group_audio_settings.png"
+    }
+]

@@ -1,0 +1,7 @@
+include ':app', ':opensl_stream_sample', ':opensl_es'
+//include ':patchfield'
+//include ':patchfieldControl'
+//include ':lowpassSample'
+//include ':patchfieldPd'
+//include ':pcmSample'
+//include ':pdSample'

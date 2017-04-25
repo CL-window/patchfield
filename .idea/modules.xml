@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opensl_es/opensl_es.iml" filepath="$PROJECT_DIR$/opensl_es/opensl_es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opensl_stream_sample/opensl_stream_sample.iml" filepath="$PROJECT_DIR$/opensl_stream_sample/opensl_stream_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patchfieldSlack.iml" filepath="$PROJECT_DIR$/patchfieldSlack.iml" />
+    </modules>
+  </component>
+</project>

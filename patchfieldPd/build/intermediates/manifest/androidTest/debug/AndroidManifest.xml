@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.noisepages.nettoyeur.patchfield.pd.test" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="25" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.noisepages.nettoyeur.patchfield.pd.test"
+        android:targetPackage="com.noisepages.nettoyeur.patchfield.pd.test" />
+
+    <permission
+        android:name="com.noisepages.nettoyeur.patchfield.service.USE_PATCHFIELD"
+        android:protectionLevel="normal" />
+
+    <uses-permission android:name="com.noisepages.nettoyeur.patchfield.service.USE_PATCHFIELD" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <uses-library android:name="android.test.runner" />
+
+        <service
+            android:name="com.noisepages.nettoyeur.patchfield.service.PatchfieldService"
+            android:permission="com.noisepages.nettoyeur.patchfield.service.USE_PATCHFIELD" >
+            <intent-filter>
+                <action android:name="IPatchfieldService" >
+                </action>
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>
